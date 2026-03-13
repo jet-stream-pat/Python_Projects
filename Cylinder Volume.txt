@@ -1,0 +1,9 @@
+Design a program to work out the volume of a cylinder,
+
+use formula volume=pi*r**2*h where pi=3.14, r is radius and h is height. Get input from the user where necessary.
+
+Think about the variables you will need to use.
+
+What processing do you want the program to do?
+
+What output do you want the program to produce?

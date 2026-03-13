@@ -1,0 +1,12 @@
+Playing with Python code –  You manage a small farm. 
+• The farm has 125 hens 
+• Each hen lays 7 eggs daily 
+• For every box sold the farmer receives: o £1.00 a box if they provide less than 100 boxes o £1.10 for more than 150 boxes o Otherwise £1.05 per box 
+	Task 1 Calculate the number of eggs laid each day First write the algorithm in plain English and then in a Python program (Section 4.1 should help)
+
+	Task 2 The Eggs are sold in cartons of 6. What is the total value of cartons sold each day?
+	
+		Consider what type of division will you need for your calculation? 
+		
+			Again write the algorithm down and then add it to your Python program. Call the output boxes.
+
