@@ -1,2 +1,3 @@
 Not a project, but a learning and consolidation area.
-Carrying some Python tasks and challenges to help reinforce my learning.
+Carrying some throughout my studying of Python 
+In this repository are tasks, challenges and projects to help demonstrate a basic understanding of Python proficiency. 
