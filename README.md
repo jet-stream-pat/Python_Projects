@@ -1,3 +1,3 @@
 Not a project, but a learning and consolidation area.
-Carrying some throughout my studying of Python 
-In this repository are tasks, challenges and projects to help demonstrate a basic understanding of Python proficiency. 
+I have uploaded some tasks and challenges that I carried out during my studies of Python via the Open University, as well as Cisco's Python Essentials 1
+This repository contains tasks, challenges, and projects I completed that demonstrate a basic understanding of Python. 
